@@ -2,7 +2,7 @@
 
 A sleek and intelligent dictionary app built with **Next.js** and **ShadCN UI**, designed to make exploring the English language effortless and enjoyable. 
 
-<img width="862" height="907" alt="Screenshot 2025-08-13 103633" src="https://github.com/user-attachments/assets/27b154a5-9dd2-4c93-a908-2f9c58291d1e" />
+<img width="862" height="907" alt="Screenshot 2025-08-13 103633" src="https://github.com/user-attachments/assets/2ebf95ac-51d4-4df2-be31-12f6a29e88fe" />
 
 ---
 
@@ -20,7 +20,7 @@ A sleek and intelligent dictionary app built with **Next.js** and **ShadCN UI**,
 
 ## Live Demo
 
-https://lexi-find.netlify.app/
+https://lexifind.vercel.app/
 
 ---
 
