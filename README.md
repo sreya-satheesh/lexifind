@@ -1,4 +1,4 @@
-# LexiFind (Demo)
+# LexiFind
 
 A sleek and intelligent dictionary app built with **Next.js** and **ShadCN UI**, designed to make exploring the English language effortless and enjoyable. 
 
